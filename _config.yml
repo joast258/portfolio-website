@@ -20,7 +20,7 @@
 
 title: Test Testsson wawiow
 email: your-email@example.com
-description: My portfolio website
+description: My portfolio website 12345
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
