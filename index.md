@@ -11,7 +11,3 @@ Detta e vanlig text
 * Git and Github
 
 
-
-
-
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDwIEC42SSmmM2tgW4qO4XS14OEmkC0oMwDu7JqPonoQ joast258@student.liu.se
